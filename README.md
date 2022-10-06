@@ -32,13 +32,9 @@ tOMCAT, MYSQL
 ### Cooperation & Tool
 GITHUB, [Notion](https://notebook-coding.notion.site/notebook-coding/ChacaChaca-01b733a55be14328a2df99ca288ceaa4)
 
-|   JSP   |    Java    |   jQuery   |    AJAX    |
-| :--------: | :--------: | :--------: | :--------: |
-|  ![jsp] |   ![java]  |  ![jquery] |   ![ajax]  |
-
-|     Html   |     css    | JavaScript |            |
-| :--------: | :--------: | :--------: | :--------: |
-|  ![html]   |   ![css]   |   ![js]    |            |
+|     JSP    |    Java    |   jQuery   |    AJAX    |     Html   |     css    | JavaScript |
+| :--------: | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: |
+|  ![jsp]    |   ![java]  |  ![jquery] |   ![ajax]  |   ![html]  |   ![css]   |    ![js]   |
 
 
 ### Database & Server
