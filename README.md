@@ -2,20 +2,26 @@
 ITWILL / semi-project (2022.08.26~2022.09.30)
 - 배포 주소 : http://itwillbs7.cafe24.com/Root/Main.bo
 
+
 ## 목차
 1. [ChacaChaca 소개](#ChacaChaca 소개)
 2. [기술 스택](#기술-스택)
 3. [제작 기간](#제작-기간)
 4. [설계 (DB, API)](#설계)
-5. [깃 커밋 규칙](#깃-커밋-규칙)
+5. [깃 커밋 규칙](#깃-커밋-규칙) ////////생략
 6. [프로젝트 화면](#프로젝트-화면)
 7. [구현 목록](#구현-목록)
 
+
 ## ChacaChaca 소개
-환경을 생각하는 구매라는 의미의 environment + buy를 합친 enbuyronment 서비스!
-친환경 제품들을 판매하는 브랜드 쇼핑몰들의 상품들로 구성한 셀렉트샵(쇼핑몰)서비스!
+직접 렌터카 사이트를 제작하며, 카쉐어링 서비스의 골자를 파악하고
+카쉐어링 관련 새로운 서비스를 기획 및 개발, 운영 해보는 경험을 해보고자 기획
 
 ## 기술 스택
+| JavaScript | TypeScript |  React   |  Node   |
+| :--------: | :--------: | :------: | :-----: |
+|   ![js]    |   ![ts]    | ![react] | ![node] |
+
 ### Front-end
 - 프레임워크 및 라이브러리 : Bootstrap, jQuery, jQuery.ajax
 - 언어 : html, css, Javascript
@@ -34,11 +40,14 @@ ITWILL / semi-project (2022.08.26~2022.09.30)
 - 
 - 다음 우편번호 서비스
 
+
 ## 제작 기간
 2022.05.02 ~ 2022.06.02
 
+
 ## 설계
 - ### [구글 docs로 작성한 HTTP API 설계](https://docs.google.com/document/d/13xFg6rb-ijE4OgyMSpTWLmfi9NQ_jvxKPYn1LjvEivw/edit?usp=sharing) 
+
 
 ## 프로젝트 화면
 ![image](https://user-images.githubusercontent.com/59406944/172750733-a0a3ff5e-7810-4923-8ff4-990130e7a192.png)
@@ -84,6 +93,7 @@ ITWILL / semi-project (2022.08.26~2022.09.30)
  - [X] 게시판 글 등록 페이지
  - [X] 게시글 수정 페이지
 
+
 ### Function
  * 회원
  - [X] 로그인
@@ -109,4 +119,9 @@ ITWILL / semi-project (2022.08.26~2022.09.30)
  - [X] - 게시글 작성
  - [X] - 게시글 수정
 
+<!-- Stack Icon Refernces -->
 
+[js]: /images/stack/javascript.svg
+[ts]: /images/stack/typescript.svg
+[react]: /images/stack/react.svg
+[node]: /images/stack/node.svg
