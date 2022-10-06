@@ -18,10 +18,25 @@ ITWILL / semi-project (2022.08.26~2022.09.30)
 카쉐어링 관련 새로운 서비스를 기획 및 개발, 운영 해보는 경험을 해보고자 기획
 
 ## 기술 스택
-### Front-end
+### Language
+|   Spring   |    Java    |   jQuery   |    AJAX    |
+| :--------: | :--------: | :--------: | :--------: |
+|  ![spring] |   ![java]  |  ![jquery] |   ![ajax]  |
+|     Html   |     css    | JavaScript |            |
+| :--------: | :--------: | :--------: | :--------: |
+|  ![html]   |   ![css]   |   ![js]    |            |
+
+
+### Database & Server
 | JavaScript | TypeScript |  React   |  Node   |
 | :--------: | :--------: | :------: | :-----: |
 |   ![js]    |   ![ts]    | ![react] | ![node] |
+
+### Cooperation & Tool
+|   Notion  |   GitHub  |
+| :-------: | :-------: |
+| ![notion] | ![github] |
+
 
 ### Front-end
 - 프레임워크 및 라이브러리 : Bootstrap, jQuery, jQuery.ajax
@@ -121,4 +136,5 @@ ITWILL / semi-project (2022.08.26~2022.09.30)
 [js]: /images/stack/javascript.svg
 [ts]: /images/stack/typescript.svg
 [react]: /images/stack/react.svg
-[notion]: [/images/stack/node.svg](https://github.com/DEVHZI/ChacaChaca/issues/4#issue-1398982492)
+[notion]: ![notion](https://user-images.githubusercontent.com/111685274/194261394-68ed7407-d325-4601-8bab-9fa87148555f.svg)
+[spring]: ![spring](https://user-images.githubusercontent.com/111685274/194261999-367c9287-1e8c-4f82-afe7-4e4df5901ef6.png)
