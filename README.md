@@ -1,12 +1,12 @@
-# ChacaChaca_Project
+# ChacaChaca
 ITWILL / semi-project (2022.08.26~2022.09.30)
 - 배포 주소 : http://itwillbs7.cafe24.com/Root/Main.bo
 
 
 ## 목차
-1. [ChacaChaca 소개](#ChacaChaca 소개)
+1. [ChacaChaca 소개](#ChacaChaca-소개)
 2. [기술 스택](#기술-스택)
-3. [제작 기간](#제작-기간)
+3. [제작 기간](#제작-기간) ////////생략
 4. [설계 (DB, API)](#설계)
 5. [깃 커밋 규칙](#깃-커밋-규칙) ////////생략
 6. [프로젝트 화면](#프로젝트-화면)
@@ -18,6 +18,7 @@ ITWILL / semi-project (2022.08.26~2022.09.30)
 카쉐어링 관련 새로운 서비스를 기획 및 개발, 운영 해보는 경험을 해보고자 기획
 
 ## 기술 스택
+### Front-end
 | JavaScript | TypeScript |  React   |  Node   |
 | :--------: | :--------: | :------: | :-----: |
 |   ![js]    |   ![ts]    | ![react] | ![node] |
@@ -31,18 +32,14 @@ ITWILL / semi-project (2022.08.26~2022.09.30)
 - 언어 : Java(8), JSP
 - 서버 : Tomcat
 ### Tools
-- 협업툴 : GitHub, Notion(https://notebook-coding.notion.site/notebook-coding/ChacaChaca-01b733a55be14328a2df99ca288ceaa4)
+- 협업툴 : [Notion](https://notebook-coding.notion.site/notebook-coding/ChacaChaca-01b733a55be14328a2df99ca288ceaa4)
 - IDE : Eclipse(STS)
 ### Version Control
 - Git, Github
 ### 기타 API
 - i'mport의 결제 API
-- 
-- 다음 우편번호 서비스
-
-
-## 제작 기간
-2022.05.02 ~ 2022.06.02
+- 카카오 로그인
+- 카카오 지도 API 
 
 
 ## 설계
@@ -124,4 +121,4 @@ ITWILL / semi-project (2022.08.26~2022.09.30)
 [js]: /images/stack/javascript.svg
 [ts]: /images/stack/typescript.svg
 [react]: /images/stack/react.svg
-[node]: /images/stack/node.svg
+[notion]: [/images/stack/node.svg](https://github.com/DEVHZI/ChacaChaca/issues/4#issue-1398982492)
