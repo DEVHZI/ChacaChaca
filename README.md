@@ -1,13 +1,9 @@
 # ChacaChaca_Project
 ITWILL / semi-project (2022.08.26~2022.09.30)
-
-
-# Enbuyronment
-환경돌이 팀의 친환경제품 쇼핑몰 'Enbuyronment' 프로젝트
-- 배포된 주소 : http://itwillbs2.cafe24.com/
+- 배포 주소 : http://itwillbs7.cafe24.com/Root/Main.bo
 
 ## 목차
-1. [서비스 소개](#서비스-소개)
+1. [ChacaChaca 소개](#ChacaChaca 소개)
 2. [기술 스택](#기술-스택)
 3. [제작 기간](#제작-기간)
 4. [설계 (DB, API)](#설계)
@@ -15,13 +11,13 @@ ITWILL / semi-project (2022.08.26~2022.09.30)
 6. [프로젝트 화면](#프로젝트-화면)
 7. [구현 목록](#구현-목록)
 
-## 서비스 소개
+## ChacaChaca 소개
 환경을 생각하는 구매라는 의미의 environment + buy를 합친 enbuyronment 서비스!
 친환경 제품들을 판매하는 브랜드 쇼핑몰들의 상품들로 구성한 셀렉트샵(쇼핑몰)서비스!
 
 ## 기술 스택
 ### Front-end
-- 프레임워크 및 라이브러리 : Bootstrap, jQuery,  jQuery.ajax
+- 프레임워크 및 라이브러리 : Bootstrap, jQuery, jQuery.ajax
 - 언어 : html, css, Javascript
 ### Back-end
 - 프레임워크 및 라이브러리 : Spring, Mybatis
@@ -29,12 +25,13 @@ ITWILL / semi-project (2022.08.26~2022.09.30)
 - 언어 : Java(8), JSP
 - 서버 : Tomcat
 ### Tools
-- 협업툴 : slack, Google Docs, [Trello](https://trello.com/b/QGbyUTgI/%ED%8C%80%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8)
+- 협업툴 : GitHub, Notion(https://notebook-coding.notion.site/notebook-coding/ChacaChaca-01b733a55be14328a2df99ca288ceaa4)
 - IDE : Eclipse(STS)
 ### Version Control
 - Git, Github
 ### 기타 API
 - i'mport의 결제 API
+- 
 - 다음 우편번호 서비스
 
 ## 제작 기간
