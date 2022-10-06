@@ -137,4 +137,5 @@ ITWILL / semi-project (2022.08.26~2022.09.30)
 [ts]: /images/stack/typescript.svg
 [react]: /images/stack/react.svg
 [notion]: ![notion](https://user-images.githubusercontent.com/111685274/194261394-68ed7407-d325-4601-8bab-9fa87148555f.svg)
-[spring]: ![spring](https://user-images.githubusercontent.com/111685274/194261999-367c9287-1e8c-4f82-afe7-4e4df5901ef6.png)
+
+[spring]: https://github.com/DEVHZI/ChacaChaca/issues/7#issue-1399092550
