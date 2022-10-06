@@ -19,6 +19,19 @@ ITWILL / semi-project (2022.08.26~2022.09.30)
 
 ## 기술 스택
 ### Language
+SPRING, JAVA, JQUERY, AJAX, HTML, CSS, JAVASCRIPT
+
+### Database & Server
+tOMCAT, MYSQL
+
+### 기타 API
+- i'mport의 결제 API
+- 카카오 로그인
+- 카카오 지도 API
+
+### Cooperation & Tool
+GITHUB, [Notion](https://notebook-coding.notion.site/notebook-coding/ChacaChaca-01b733a55be14328a2df99ca288ceaa4)
+
 |   Spring   |    Java    |   jQuery   |    AJAX    |
 | :--------: | :--------: | :--------: | :--------: |
 |  ![spring] |   ![java]  |  ![jquery] |   ![ajax]  |
@@ -64,13 +77,6 @@ ITWILL / semi-project (2022.08.26~2022.09.30)
 
 ## 프로젝트 화면
 ![image](https://user-images.githubusercontent.com/59406944/172750733-a0a3ff5e-7810-4923-8ff4-990130e7a192.png)
-![image](https://user-images.githubusercontent.com/59406944/172750786-103f4956-e404-4069-a4f1-dce4bfa2291f.png)
-![image](https://user-images.githubusercontent.com/59406944/172750818-72d30730-83e6-4df2-bf63-0a247987239e.png)
-![image](https://user-images.githubusercontent.com/59406944/172750844-8e3a02f2-6e6e-45c7-9624-f56de1f660c8.png)
-![image](https://user-images.githubusercontent.com/59406944/172750872-f8bb3728-eda2-4cab-bdab-ca33c0272190.png)
-![image](https://user-images.githubusercontent.com/59406944/172750896-437c5407-8e83-4d2d-affd-41a31f5775fe.png)
-![image](https://user-images.githubusercontent.com/59406944/172750936-272d4aa3-feb0-42b9-8d72-1505231d0723.png)
-![image](https://user-images.githubusercontent.com/59406944/172750979-0a8de2cc-ec5d-451f-a8c4-02946bcabcef.png)
 
 
 ## 구현 목록
@@ -138,3 +144,5 @@ ITWILL / semi-project (2022.08.26~2022.09.30)
 [ajax]: ![ajax](https://user-images.githubusercontent.com/111685274/194261848-66bacb9f-accd-4e2c-b519-58363572e608.png)
 [spring]: ![spring](https://user-images.githubusercontent.com/111685274/194261999-367c9287-1e8c-4f82-afe7-4e4df5901ef6.png)
 [html]: ![html](https://user-images.githubusercontent.com/111685274/194262791-0427b917-91a2-412a-a914-65b37950ea93.png)
+[css]: ![css](https://user-images.githubusercontent.com/111685274/194262954-7646b6dd-0dc2-490a-a585-29ced4bb5380.png)
+
