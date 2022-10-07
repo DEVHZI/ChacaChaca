@@ -34,7 +34,7 @@ GITHUB, [Notion](https://notebook-coding.notion.site/notebook-coding/ChacaChaca-
 
 |   JSP   |    Java    |  jQuery   |    AJAX    |     Html   |    css   | JavaScript |
 | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: |
-| <img width="300" alt="jsp" src="https://user-images.githubusercontent.com/111685274/194449553-223e102c-c8ee-4ca5-b0ae-996a678fccb5.png">    |   ![java](https://user-images.githubusercontent.com/111685274/194263103-e7314d3f-0fc7-4188-83c1-4c4a95be7d60.png)  |  <img width="70" alt="jquery" src="https://user-images.githubusercontent.com/111685274/194263137-49fbefbe-a9c2-4e59-852a-3374c52614de.png"> |  <img width="70" alt="ajax" src="(https://user-images.githubusercontent.com/111685274/194261848-66bacb9f-accd-4e2c-b519-58363572e608.png">  |  <img width="500" alt="html" src="https://user-images.githubusercontent.com/111685274/194262791-0427b917-91a2-412a-a914-65b37950ea93.png">  |   ![css](https://user-images.githubusercontent.com/111685274/194262954-7646b6dd-0dc2-490a-a585-29ced4bb5380.png)   |    <img width="80" alt="js" src="https://user-images.githubusercontent.com/111685274/194263062-af7bf853-ff18-4a16-b6da-b0dc352dfc34.png">   |
+| <img width="300" alt="jsp" src="https://user-images.githubusercontent.com/111685274/194449553-223e102c-c8ee-4ca5-b0ae-996a678fccb5.png">    |   ![java](https://user-images.githubusercontent.com/111685274/194263103-e7314d3f-0fc7-4188-83c1-4c4a95be7d60.png)  |  <img width="80" alt="jquery" src="https://user-images.githubusercontent.com/111685274/194263137-49fbefbe-a9c2-4e59-852a-3374c52614de.png"> |  <img width="80" alt="ajax" src="https://user-images.githubusercontent.com/111685274/194261848-66bacb9f-accd-4e2c-b519-58363572e608.png">  |  <img width="500" alt="html" src="https://user-images.githubusercontent.com/111685274/194262791-0427b917-91a2-412a-a914-65b37950ea93.png">  |   ![css](https://user-images.githubusercontent.com/111685274/194262954-7646b6dd-0dc2-490a-a585-29ced4bb5380.png)   |    <img width="80" alt="js" src="https://user-images.githubusercontent.com/111685274/194263062-af7bf853-ff18-4a16-b6da-b0dc352dfc34.png">   |
 
 
 
@@ -46,7 +46,7 @@ GITHUB, [Notion](https://notebook-coding.notion.site/notebook-coding/ChacaChaca-
 ### Cooperation & Tool
 |   Notion  |   GitHub  |
 | :-------: | :-------: |
-| <img width="60" alt="mysql" src="https://user-images.githubusercontent.com/111685274/194261394-68ed7407-d325-4601-8bab-9fa87148555f.svg"> | <img width="70" alt="github" src="https://user-images.githubusercontent.com/111685274/194263274-99e57dc0-d51e-4a00-827c-05dd8dbc25b8.png"> |
+| <img width="70" alt="mysql" src="https://user-images.githubusercontent.com/111685274/194261394-68ed7407-d325-4601-8bab-9fa87148555f.svg"> | <img width="70" alt="github" src="https://user-images.githubusercontent.com/111685274/194263274-99e57dc0-d51e-4a00-827c-05dd8dbc25b8.png"> |
 
 
 
