@@ -1,4 +1,6 @@
-# ChacaChaca 🚙
+![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=94B49F&text=ChacaChaca🚙&height=150&fontSize=60&desc=rental%20car%20project&descAlignY=75&descAlign=60)
+
+
 ITWILL / semi-project (2022.08.26~2022.09.30)
 - 배포 주소 : http://itwillbs7.cafe24.com/Root/Main.bo
 <br><br>
@@ -7,11 +9,11 @@ ITWILL / semi-project (2022.08.26~2022.09.30)
 ## 목차
 1. [ChacaChaca ?](#ChacaChaca-?)
 2. [기술 스택](#기술-스택)
-3. [WBS 일정관리표](#WBS-일정관리표) 
-4. [프로젝트 흐름도](#프로젝트-흐름도)
+3. [프로젝트 흐름도](#프로젝트-흐름도)
+4. [ERD](#ERD)D
 5. [요구사항 정의서](#요구사항-정의서)
-6. [ERD](#ERD)
-8. [프로젝트 화면](#프로젝트-화면)
+6. [프로젝트 화면](#프로젝트-화면)
+7. [코멘트]
 <br><br>
 
 ## ChacaChaca ?
@@ -42,20 +44,70 @@ ITWILL / semi-project (2022.08.26~2022.09.30)
 
 
 <br><br>
-## WBS 일정관리표
-![ChacaChaca_ppt_fontup_최종_14](https://user-images.githubusercontent.com/111685274/194457790-9398c9c5-c542-47c2-9db2-fe4294481627.jpg)
-<br><br>
-
 ## 프로젝트 흐름도
 ![ChacaChaca_ppt_fontup_최종_17](https://user-images.githubusercontent.com/111685274/194457894-c0244418-cec7-4091-ae2c-435b010bf3fc.jpg)
 <br><br>
 
-## 요구사항 정의서
-
-<br><br>
-
 ## ERD
 ![ChacaChaca_ppt_fontup_최종_18](https://user-images.githubusercontent.com/111685274/194458425-e2995aa7-3480-409c-a3b4-5d5e27d694b2.jpg)
+<br><br>
+
+## 요구사항 정의서?? 구현 기능??
+ * 회원가입
+ - [X] - 로그인 페이지
+ - [X] - 회원가입 페이지
+ - [X] - 아이디 찾기 페이지
+ - [X] - 비밀번호 찾기 페이지
+ * 스토어
+ - [X] - 장바구니 페이지
+ - [X] - 상품 목록 페이지
+ - [X] - 상품 상세 페이지
+ - [X] - 주문 하기 페이지
+ - [X] - 주문 확인 페이지
+ * 마이페이지
+ - [X] - 회원 정보 조회 및 수정 페이지
+ - [X] - 관심 상품 목록 페이지
+ - [X] - 내 리뷰 목록 페이지
+ - [X] - 주문 내역 페이지
+ - [X] - 리뷰 작성 페이지
+ - [X] - 리뷰 수정 페이지
+ - [X] - 회원 탈퇴 페이지
+ * 게시판
+ - [X] 게시글 목록 페이지
+ - [X] 게시글 상세 페이지
+ * 관리자
+ - [X] 회원 관리 페이지
+ - [X] 상품 등록 페이지
+ - [X] 상품 수정 페이지
+ - [X] 회원 주문내역 관리 페이지
+ - [X] 게시판 글 등록 페이지
+ - [X] 게시글 수정 페이지
+
+### Function
+ * 회원
+ - [X] 로그인
+ - [X] 회원가입
+ - [X] 아이디 찾기
+ - [X] 비밀번호 찾기
+ * 스토어
+ - [X] 장바구니 상품 담기, 수량 변경, 장바구니에서 상품 제거
+ - [X] 관심 상품 등록, 삭제
+ - [X] 결제 기능
+ * 마이페이지
+ - [X] - 회원 정보 수정
+ - [X] - 관심 상품 제거, 장바구니에 담기
+ - [X] - 상품 리뷰 작성, 수정
+ - [X] - 리뷰 작성, 삭제
+ - [X] - 회원 정보 수정
+ - [X] - 회원 탈퇴
+ * 관리자
+ - [X] - 회원 관리(조회, 삭제)
+ - [X] - 상품 등록
+ - [X] - 상품 수정
+ - [X] - 회원 주문 상태 변경 (배송처리)
+ - [X] - 게시글 작성
+ - [X] - 게시글 수정
+
 <br><br>
 
 
@@ -67,18 +119,13 @@ ITWILL / semi-project (2022.08.26~2022.09.30)
 ![ChacaChaca_ppt_fontup_최종_23](https://user-images.githubusercontent.com/111685274/194458083-3a8e8126-80c5-4963-8fd4-526df76684c6.jpg)
 ![ChacaChaca_ppt_fontup_최종_24](https://user-images.githubusercontent.com/111685274/194458114-09ca06b4-a51a-4334-9208-b881acc71d59.jpg)
 ![ChacaChaca_ppt_fontup_최종_25](https://user-images.githubusercontent.com/111685274/194458139-4fedd4d3-53a1-4d6e-b7ab-98dd4b1d671c.jpg)
-![ChacaChaca_ppt_fontup_최종_26](https://user-images.githubusercontent.com/111685274/194458172-0699b2e5-2738-409a-91b7-b3ee7c2ada68.jpg)
 ![ChacaChaca_ppt_fontup_최종_27](https://user-images.githubusercontent.com/111685274/194458196-6d9cc698-6828-4509-9816-b97ce6d244f4.jpg)
-![ChacaChaca_ppt_fontup_최종_28](https://user-images.githubusercontent.com/111685274/194458231-485f5d58-4f8f-450a-b2a6-559ed4358a05.jpg)
 ![ChacaChaca_ppt_fontup_최종_29](https://user-images.githubusercontent.com/111685274/194458247-d7eecf01-c57c-4a42-b8e2-676d71656a46.jpg)
 ![ChacaChaca_ppt_fontup_최종_30](https://user-images.githubusercontent.com/111685274/194458273-1a124e85-f49e-4d5c-971b-32a5c8880df5.jpg)
 ![ChacaChaca_ppt_fontup_최종_31](https://user-images.githubusercontent.com/111685274/194458293-684f67bb-05c9-48c3-b1e6-6555612f0287.jpg)
 ![ChacaChaca_ppt_fontup_최종_32](https://user-images.githubusercontent.com/111685274/194458306-c7329a2a-cad7-464a-8c34-10842b546dfa.jpg)
-![ChacaChaca_ppt_fontup_최종_33](https://user-images.githubusercontent.com/111685274/194458327-25c76d56-2520-4687-a77b-be679048935e.jpg)
 ![ChacaChaca_ppt_fontup_최종_34](https://user-images.githubusercontent.com/111685274/194458344-10852605-25e9-4286-bea2-a2f46efd88bc.jpg)
 ![ChacaChaca_ppt_fontup_최종_35](https://user-images.githubusercontent.com/111685274/194458363-125a8b1a-a96f-4dfd-ae6f-9dd163991c50.jpg)
 <br><br>
 
-
-
-         
+        
