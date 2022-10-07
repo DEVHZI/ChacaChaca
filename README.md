@@ -4,18 +4,17 @@ ITWILL / semi-project (2022.08.26~2022.09.30)
 <br><br>
 
 ## 목차
-1. [ChacaChaca 소개](#ChacaChaca-소개)
+1. [ChacaChaca ?](#ChacaChaca-?)
 2. [기술 스택](#기술-스택)
-3. [제작 기간](#제작-기간) 
-4. [설계 (DB, API)](#설계)
-5. [깃 커밋 규칙](#깃-커밋-규칙) ////////생략
-6. [프로젝트 화면](#프로젝트-화면)
-7. [구현 목록](#구현-목록)
+3. [WBS 일정관리표](#WBS-일정관리표) 
+4. [프로젝트 흐름도](#프로젝트-흐름도)
+5. [요구사항 정의서](#요구사항-정의서)
+6. [ERD](#ERD)
+8. [프로젝트 화면](#프로젝트-화면)
 <br><br>
 
-## ChacaChaca 소개
-직접 렌터카 사이트를 제작하며, 카쉐어링 서비스의 골자를 파악하고
-카쉐어링 관련 새로운 서비스를 기획 및 개발, 운영 해보는 경험을 해보고자 기획
+## ChacaChaca ?
+직접 렌터카 사이트를 제작하여 카쉐어링 서비스의 골자를 파악하고 카쉐어링 관련 새로운 서비스를 기획 및 개발, 운영 해보는 경험을 해보고자 기획
 <br><br>
 
 
@@ -39,73 +38,45 @@ ITWILL / semi-project (2022.08.26~2022.09.30)
 |  KAKAO  |   i'mport  |
 | :-------: | :-------: |
 | <img width="140" alt="mysql" src="https://user-images.githubusercontent.com/111685274/194453452-26eab8ff-34da-47cc-a8ca-84eab6390223.png"> | <img width="80" alt="github" src="https://user-images.githubusercontent.com/111685274/194453421-927d535f-f69a-40ee-b700-1d62cfacfe16.png"> |
+<br><br>
 
+## WBS 일정관리표
+![ChacaChaca_ppt_fontup_최종_14](https://user-images.githubusercontent.com/111685274/194457790-9398c9c5-c542-47c2-9db2-fe4294481627.jpg)
+<br><br>
+
+## 프로젝트 흐름도
+![ChacaChaca_ppt_fontup_최종_17](https://user-images.githubusercontent.com/111685274/194457894-c0244418-cec7-4091-ae2c-435b010bf3fc.jpg)
+<br><br>
+
+## 요구사항 정의서
+
+<br><br>
+
+## ERD
+![ChacaChaca_ppt_fontup_최종_18](https://user-images.githubusercontent.com/111685274/194458425-e2995aa7-3480-409c-a3b4-5d5e27d694b2.jpg)
 <br><br>
 
 
 ## 프로젝트 화면
-![image](https://user-images.githubusercontent.com/59406944/172750733-a0a3ff5e-7810-4923-8ff4-990130e7a192.png)
+![ChacaChaca_ppt_fontup_최종_19](https://user-images.githubusercontent.com/111685274/194457968-fc9aa758-52e2-4679-98d5-d3079a710609.jpg)
+![ChacaChaca_ppt_fontup_최종_20](https://user-images.githubusercontent.com/111685274/194458004-179e081c-607d-4d69-864b-768b81cbc223.jpg)
+![ChacaChaca_ppt_fontup_최종_21](https://user-images.githubusercontent.com/111685274/194458030-2f154e01-3116-4886-a819-c8666bd02565.jpg)
+![ChacaChaca_ppt_fontup_최종_22](https://user-images.githubusercontent.com/111685274/194458058-1506f6a0-cf0e-4251-a6af-e0a70152256a.jpg)
+![ChacaChaca_ppt_fontup_최종_23](https://user-images.githubusercontent.com/111685274/194458083-3a8e8126-80c5-4963-8fd4-526df76684c6.jpg)
+![ChacaChaca_ppt_fontup_최종_24](https://user-images.githubusercontent.com/111685274/194458114-09ca06b4-a51a-4334-9208-b881acc71d59.jpg)
+![ChacaChaca_ppt_fontup_최종_25](https://user-images.githubusercontent.com/111685274/194458139-4fedd4d3-53a1-4d6e-b7ab-98dd4b1d671c.jpg)
+![ChacaChaca_ppt_fontup_최종_26](https://user-images.githubusercontent.com/111685274/194458172-0699b2e5-2738-409a-91b7-b3ee7c2ada68.jpg)
+![ChacaChaca_ppt_fontup_최종_27](https://user-images.githubusercontent.com/111685274/194458196-6d9cc698-6828-4509-9816-b97ce6d244f4.jpg)
+![ChacaChaca_ppt_fontup_최종_28](https://user-images.githubusercontent.com/111685274/194458231-485f5d58-4f8f-450a-b2a6-559ed4358a05.jpg)
+![ChacaChaca_ppt_fontup_최종_29](https://user-images.githubusercontent.com/111685274/194458247-d7eecf01-c57c-4a42-b8e2-676d71656a46.jpg)
+![ChacaChaca_ppt_fontup_최종_30](https://user-images.githubusercontent.com/111685274/194458273-1a124e85-f49e-4d5c-971b-32a5c8880df5.jpg)
+![ChacaChaca_ppt_fontup_최종_31](https://user-images.githubusercontent.com/111685274/194458293-684f67bb-05c9-48c3-b1e6-6555612f0287.jpg)
+![ChacaChaca_ppt_fontup_최종_32](https://user-images.githubusercontent.com/111685274/194458306-c7329a2a-cad7-464a-8c34-10842b546dfa.jpg)
+![ChacaChaca_ppt_fontup_최종_33](https://user-images.githubusercontent.com/111685274/194458327-25c76d56-2520-4687-a77b-be679048935e.jpg)
+![ChacaChaca_ppt_fontup_최종_34](https://user-images.githubusercontent.com/111685274/194458344-10852605-25e9-4286-bea2-a2f46efd88bc.jpg)
+![ChacaChaca_ppt_fontup_최종_35](https://user-images.githubusercontent.com/111685274/194458363-125a8b1a-a96f-4dfd-ae6f-9dd163991c50.jpg)
 <br><br>
 
-
-## 구현 목록
-### Pages
- - [X] - 메인페이지 
- * 회원
- - [X] - 로그인 페이지
- - [X] - 회원가입 페이지
- - [X] - 아이디 찾기 페이지
- - [X] - 비밀번호 찾기 페이지
- * 스토어
- - [X] - 장바구니 페이지
- - [X] - 상품 목록 페이지
- - [X] - 상품 상세 페이지
- - [X] - 주문 하기 페이지
- - [X] - 주문 확인 페이지
- * 마이페이지
- - [X] - 회원 정보 조회 및 수정 페이지
- - [X] - 관심 상품 목록 페이지
- - [X] - 내 리뷰 목록 페이지
- - [X] - 주문 내역 페이지
- - [X] - 리뷰 작성 페이지
- - [X] - 리뷰 수정 페이지
- - [X] - 회원 탈퇴 페이지
- * 게시판
- - [X] 게시글 목록 페이지
- - [X] 게시글 상세 페이지
- * 관리자
- - [X] 회원 관리 페이지
- - [X] 상품 등록 페이지
- - [X] 상품 수정 페이지
- - [X] 회원 주문내역 관리 페이지
- - [X] 게시판 글 등록 페이지
- - [X] 게시글 수정 페이지
-
-
-### Function
- * 회원
- - [X] 로그인
- - [X] 회원가입
- - [X] 아이디 찾기
- - [X] 비밀번호 찾기
- * 스토어
- - [X] 장바구니 상품 담기, 수량 변경, 장바구니에서 상품 제거
- - [X] 관심 상품 등록, 삭제
- - [X] 결제 기능
- * 마이페이지
- - [X] - 회원 정보 수정
- - [X] - 관심 상품 제거, 장바구니에 담기
- - [X] - 상품 리뷰 작성, 수정
- - [X] - 리뷰 작성, 삭제
- - [X] - 회원 정보 수정
- - [X] - 회원 탈퇴
- * 관리자
- - [X] - 회원 관리(조회, 삭제)
- - [X] - 상품 등록
- - [X] - 상품 수정
- - [X] - 회원 주문 상태 변경 (배송처리)
- - [X] - 게시글 작성
- - [X] - 게시글 수정
 
 
          
