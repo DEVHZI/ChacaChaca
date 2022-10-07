@@ -6,7 +6,7 @@ ITWILL / semi-project (2022.08.26~2022.09.30)
 ## 목차
 1. [ChacaChaca 소개](#ChacaChaca-소개)
 2. [기술 스택](#기술-스택)
-3. [제작 기간](#제작-기간) ////////생략
+3. [제작 기간](#제작-기간) 
 4. [설계 (DB, API)](#설계)
 5. [깃 커밋 규칙](#깃-커밋-규칙) ////////생략
 6. [프로젝트 화면](#프로젝트-화면)
@@ -17,26 +17,12 @@ ITWILL / semi-project (2022.08.26~2022.09.30)
 직접 렌터카 사이트를 제작하며, 카쉐어링 서비스의 골자를 파악하고
 카쉐어링 관련 새로운 서비스를 기획 및 개발, 운영 해보는 경험을 해보고자 기획
 
+
 ## 기술 스택
 ### Language
-SPRING, JAVA, JQUERY, AJAX, HTML, CSS, JAVASCRIPT
-
-### Database & Server
-tOMCAT, MYSQL
-
-### 기타 API
-- i'mport의 결제 API
-- 카카오 로그인
-- 카카오 지도 API
-
-### Cooperation & Tool
-GITHUB, [Notion](https://notebook-coding.notion.site/notebook-coding/ChacaChaca-01b733a55be14328a2df99ca288ceaa4)
-
 |   JSP   |    Java    |  jQuery   |    AJAX    |     Html   |    css   | JavaScript |
 | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: |
-| <img width="300" alt="jsp" src="https://user-images.githubusercontent.com/111685274/194449553-223e102c-c8ee-4ca5-b0ae-996a678fccb5.png">    |   ![java](https://user-images.githubusercontent.com/111685274/194263103-e7314d3f-0fc7-4188-83c1-4c4a95be7d60.png)  |  <img width="80" alt="jquery" src="https://user-images.githubusercontent.com/111685274/194263137-49fbefbe-a9c2-4e59-852a-3374c52614de.png"> |  <img width="80" alt="ajax" src="https://user-images.githubusercontent.com/111685274/194261848-66bacb9f-accd-4e2c-b519-58363572e608.png">  |  <img width="500" alt="html" src="https://user-images.githubusercontent.com/111685274/194262791-0427b917-91a2-412a-a914-65b37950ea93.png">  |   ![css](https://user-images.githubusercontent.com/111685274/194262954-7646b6dd-0dc2-490a-a585-29ced4bb5380.png)   |    <img width="80" alt="js" src="https://user-images.githubusercontent.com/111685274/194263062-af7bf853-ff18-4a16-b6da-b0dc352dfc34.png">   |
-
-
+| <img width="100" alt="jsp" src="https://user-images.githubusercontent.com/111685274/194449553-223e102c-c8ee-4ca5-b0ae-996a678fccb5.png">    |   <img width="100" alt="java" src="https://user-images.githubusercontent.com/111685274/194450332-5613ed9d-ca11-4c1d-a658-28496c64b295.png">  |  <img width="100" alt="jquery" src="https://user-images.githubusercontent.com/111685274/194263137-49fbefbe-a9c2-4e59-852a-3374c52614de.png"> |  <img width="100" alt="ajax" src="https://user-images.githubusercontent.com/111685274/194261848-66bacb9f-accd-4e2c-b519-58363572e608.png">  |  <img width="300" alt="html" src="https://user-images.githubusercontent.com/111685274/194262791-0427b917-91a2-412a-a914-65b37950ea93.png">  |   <img width="300" alt="css" src="https://user-images.githubusercontent.com/111685274/194262954-7646b6dd-0dc2-490a-a585-29ced4bb5380.png">    |    <img width="80" alt="js" src="https://user-images.githubusercontent.com/111685274/194263062-af7bf853-ff18-4a16-b6da-b0dc352dfc34.png">   |
 
 ### Database & Server
 | MySQL | Tomcat |
@@ -44,33 +30,14 @@ GITHUB, [Notion](https://notebook-coding.notion.site/notebook-coding/ChacaChaca-
 |   <img width="70" alt="mysql" src="https://user-images.githubusercontent.com/111685274/194263248-5efd28ca-ab6a-4772-855d-e43615879822.png">    |   <img width="80" alt="tomcat" src="https://user-images.githubusercontent.com/111685274/194263213-c8d965f4-83f9-40a1-a3cb-3c602f8be4df.png">    |
 
 ### Cooperation & Tool
-|   Notion  |   GitHub  |
+|  [Notion](https://notebook-coding.notion.site/notebook-coding/ChacaChaca-01b733a55be14328a2df99ca288ceaa4)  |   GitHub  |
 | :-------: | :-------: |
 | <img width="70" alt="mysql" src="https://user-images.githubusercontent.com/111685274/194261394-68ed7407-d325-4601-8bab-9fa87148555f.svg"> | <img width="70" alt="github" src="https://user-images.githubusercontent.com/111685274/194263274-99e57dc0-d51e-4a00-827c-05dd8dbc25b8.png"> |
 
-
-
-### Front-end
-- 프레임워크 및 라이브러리 : Bootstrap, jQuery, jQuery.ajax
-- 언어 : html, css, Javascript
-### Back-end
-- 프레임워크 및 라이브러리 : Spring, Mybatis
-- DBMS : MySQL
-- 언어 : Java(8), JSP
-- 서버 : Tomcat
-### Tools
-- 협업툴 : [Notion](https://notebook-coding.notion.site/notebook-coding/ChacaChaca-01b733a55be14328a2df99ca288ceaa4)
-- IDE : Eclipse(STS)
-### Version Control
-- Git, Github
 ### 기타 API
 - i'mport의 결제 API
 - 카카오 로그인
-- 카카오 지도 API 
-
-
-## 설계
-- ### [구글 docs로 작성한 HTTP API 설계](https://docs.google.com/document/d/13xFg6rb-ijE4OgyMSpTWLmfi9NQ_jvxKPYn1LjvEivw/edit?usp=sharing) 
+- 카카오 지도 API
 
 
 ## 프로젝트 화면
