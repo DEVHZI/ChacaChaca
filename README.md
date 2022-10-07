@@ -34,19 +34,18 @@ GITHUB, [Notion](https://notebook-coding.notion.site/notebook-coding/ChacaChaca-
 
 |     JSP    |    Java    |   jQuery   |    AJAX    |     Html   |     css    | JavaScript |
 | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: |
-| <img width="263" alt="jsp" src="https://user-images.githubusercontent.com/111685274/194447831-d4f76473-b5cc-4bb4-bf3c-459aae9c5416.png">    |   ![java](https://user-images.githubusercontent.com/111685274/194263103-e7314d3f-0fc7-4188-83c1-4c4a95be7d60.png)  |  ![jquery](https://user-images.githubusercontent.com/111685274/194263137-49fbefbe-a9c2-4e59-852a-3374c52614de.png) |   ![ajax](https://user-images.githubusercontent.com/111685274/194261848-66bacb9f-accd-4e2c-b519-58363572e608.png)  |   ![html](https://user-images.githubusercontent.com/111685274/194262791-0427b917-91a2-412a-a914-65b37950ea93.png)  |   ![css](https://user-images.githubusercontent.com/111685274/194262954-7646b6dd-0dc2-490a-a585-29ced4bb5380.png)   |    ![js](https://user-images.githubusercontent.com/111685274/194263062-af7bf853-ff18-4a16-b6da-b0dc352dfc34.png)   |
-
+| <img width="900" alt="jsp" src="https://user-images.githubusercontent.com/111685274/194447831-d4f76473-b5cc-4bb4-bf3c-459aae9c5416.png">    |   ![java](https://user-images.githubusercontent.com/111685274/194263103-e7314d3f-0fc7-4188-83c1-4c4a95be7d60.png)  |  ![jquery](https://user-images.githubusercontent.com/111685274/194263137-49fbefbe-a9c2-4e59-852a-3374c52614de.png) |   ![ajax](https://user-images.githubusercontent.com/111685274/194261848-66bacb9f-accd-4e2c-b519-58363572e608.png)  |   !<img width="900" alt="jsp" src="https://user-images.githubusercontent.com/111685274/194262791-0427b917-91a2-412a-a914-65b37950ea93.png">  |   ![css](https://user-images.githubusercontent.com/111685274/194262954-7646b6dd-0dc2-490a-a585-29ced4bb5380.png)   |    <img width="900" alt="jsp" src="https://user-images.githubusercontent.com/111685274/194263062-af7bf853-ff18-4a16-b6da-b0dc352dfc34.png">   |
 
 
 ### Database & Server
 | MySQL | Tomcat |
 | :--------: | :--------: |
-|   ![mysql](https://user-images.githubusercontent.com/111685274/194263248-5efd28ca-ab6a-4772-855d-e43615879822.png)    |   ![tomcat](https://user-images.githubusercontent.com/111685274/194263213-c8d965f4-83f9-40a1-a3cb-3c602f8be4df.png)    |
+|   <img width="900" alt="jsp" src="https://user-images.githubusercontent.com/111685274/194263248-5efd28ca-ab6a-4772-855d-e43615879822.png">    |   <img width="900" alt="jsp" src="https://user-images.githubusercontent.com/111685274/194263213-c8d965f4-83f9-40a1-a3cb-3c602f8be4df.png">    |
 
 ### Cooperation & Tool
 |   Notion  |   GitHub  |
 | :-------: | :-------: |
-| ![notion](https://user-images.githubusercontent.com/111685274/194261394-68ed7407-d325-4601-8bab-9fa87148555f.svg) | ![github](https://user-images.githubusercontent.com/111685274/194263274-99e57dc0-d51e-4a00-827c-05dd8dbc25b8.png) |
+| ![notion](https://user-images.githubusercontent.com/111685274/194261394-68ed7407-d325-4601-8bab-9fa87148555f.svg) | <img width="900" alt="jsp" src="(https://user-images.githubusercontent.com/111685274/194263274-99e57dc0-d51e-4a00-827c-05dd8dbc25b8.png"> |
 
 
 ### Front-end
