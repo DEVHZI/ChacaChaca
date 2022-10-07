@@ -38,8 +38,9 @@ ITWILL / semi-project (2022.08.26~2022.09.30)
 |  KAKAO  |   i'mport  |
 | :-------: | :-------: |
 | <img width="140" alt="mysql" src="https://user-images.githubusercontent.com/111685274/194453452-26eab8ff-34da-47cc-a8ca-84eab6390223.png"> | <img width="80" alt="github" src="https://user-images.githubusercontent.com/111685274/194453421-927d535f-f69a-40ee-b700-1d62cfacfe16.png"> |
-<br><br>
 
+
+<br><br>
 ## WBS 일정관리표
 ![ChacaChaca_ppt_fontup_최종_14](https://user-images.githubusercontent.com/111685274/194457790-9398c9c5-c542-47c2-9db2-fe4294481627.jpg)
 <br><br>
