@@ -38,7 +38,7 @@ ITWILL / semi-project (2022.08.26~2022.09.30)
 ### API
 |  KAKAO  |   i'mport  |
 | :-------: | :-------: |
-| <img width="100" alt="mysql" src="https://user-images.githubusercontent.com/111685274/194453452-26eab8ff-34da-47cc-a8ca-84eab6390223.png"> | <img width="80" alt="github" src="https://user-images.githubusercontent.com/111685274/194453421-927d535f-f69a-40ee-b700-1d62cfacfe16.png"> |
+| <img width="110" alt="mysql" src="https://user-images.githubusercontent.com/111685274/194453452-26eab8ff-34da-47cc-a8ca-84eab6390223.png"> | <img width="80" alt="github" src="https://user-images.githubusercontent.com/111685274/194453421-927d535f-f69a-40ee-b700-1d62cfacfe16.png"> |
 
 <br><br>
 
