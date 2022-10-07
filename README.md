@@ -136,7 +136,7 @@ GITHUB, [Notion](https://notebook-coding.notion.site/notebook-coding/ChacaChaca-
 
 <!-- Stack Icon Refernces -->
 
-[notion]: ![notion](https://user-images.githubusercontent.com/111685274/194261394-68ed7407-d325-4601-8bab-9fa87148555f.svg)
+[notion]: ![image](https://user-images.githubusercontent.com/111685274/194261394-68ed7407-d325-4601-8bab-9fa87148555f.svg)
 [ajax]: ![ajax](https://user-images.githubusercontent.com/111685274/194261848-66bacb9f-accd-4e2c-b519-58363572e608.png)
 [spring]: ![spring](https://user-images.githubusercontent.com/111685274/194261999-367c9287-1e8c-4f82-afe7-4e4df5901ef6.png)
 [html]: ![html](https://user-images.githubusercontent.com/111685274/194262791-0427b917-91a2-412a-a914-65b37950ea93.png)
