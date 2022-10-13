@@ -2,7 +2,7 @@
 
 
 # 
-ITWILL / semi-project (2022.08.26~2022.09.30)
+- SEMI-PROJECT (2022.08.26~2022.09.30)
 - 배포 주소 : http://itwillbs7.cafe24.com/Root/Main.bo
 <br><br>
 
@@ -11,17 +11,20 @@ ITWILL / semi-project (2022.08.26~2022.09.30)
 1. [ChacaChaca ?](#ChacaChaca-?)
 2. [기술 스택](#기술-스택)
 3. [프로젝트 흐름도](#프로젝트-흐름도)
-4. [ERD](#ERD)D
+4. [ERD](#ERD)
 5. [요구사항 정의서](#요구사항-정의서)
 6. [프로젝트 화면](#프로젝트-화면)
-7. [코멘트]
-<br><br>
+7. [보완점](#보완점)
+8. [느낀점](#느낀점)
 
+
+<br>---<br>
 ## ChacaChaca ?
-직접 렌터카 사이트를 제작하여 카쉐어링 서비스의 골자를 파악하고 카쉐어링 관련 새로운 서비스를 기획 및 개발, 운영 해보는 경험을 해보고자 기획
+착한 가격에 편리한 서비스를 제공하는 카쉐어링 프로젝트로, 직접 사이트를 제작하여 카쉐어링 서비스의 골자를 파악하고 카쉐어링 관련 새로운 서비스를 기획 및 개발, 운영 해보는 경험을 해보고자 기획하였습니다. <br> 학습하면서 배운 다양한 언어를 활용해 기능을 구현하고자 하였고, 이를 통해 언어에 대한 이해를 높이고자 노력하였습니다. 
+<br> 
+
+
 <br><br>
-
-
 ## 기술 스택
 ### Language
 |   JSP   |    Java    |  jQuery   |    AJAX    |     Html   |    css   | JavaScript |
@@ -47,12 +50,12 @@ ITWILL / semi-project (2022.08.26~2022.09.30)
 <br><br>
 ## 프로젝트 흐름도
 ![ChacaChaca_ppt_fontup_최종_17](https://user-images.githubusercontent.com/111685274/194457894-c0244418-cec7-4091-ae2c-435b010bf3fc.jpg)
-<br><br>
 
+<br><br>
 ## ERD
 ![ChacaChaca_ppt_fontup_최종_18](https://user-images.githubusercontent.com/111685274/194458425-e2995aa7-3480-409c-a3b4-5d5e27d694b2.jpg)
-<br><br>
 
+<br><br>
 ## 요구사항 정의서?? 구현 기능??
  * 회원가입
  - [X] - 로그인 페이지
@@ -109,9 +112,8 @@ ITWILL / semi-project (2022.08.26~2022.09.30)
  - [X] - 게시글 작성
  - [X] - 게시글 수정
 
+
 <br><br>
-
-
 ## 프로젝트 화면
 ![ChacaChaca_ppt_fontup_최종_19](https://user-images.githubusercontent.com/111685274/194457968-fc9aa758-52e2-4679-98d5-d3079a710609.jpg)
 ![ChacaChaca_ppt_fontup_최종_20](https://user-images.githubusercontent.com/111685274/194458004-179e081c-607d-4d69-864b-768b81cbc223.jpg)
@@ -127,6 +129,23 @@ ITWILL / semi-project (2022.08.26~2022.09.30)
 ![ChacaChaca_ppt_fontup_최종_32](https://user-images.githubusercontent.com/111685274/194458306-c7329a2a-cad7-464a-8c34-10842b546dfa.jpg)
 ![ChacaChaca_ppt_fontup_최종_34](https://user-images.githubusercontent.com/111685274/194458344-10852605-25e9-4286-bea2-a2f46efd88bc.jpg)
 ![ChacaChaca_ppt_fontup_최종_35](https://user-images.githubusercontent.com/111685274/194458363-125a8b1a-a96f-4dfd-ae6f-9dd163991c50.jpg)
-<br><br>
 
-        
+
+<br><br>
+## 보완점
+![ChacaChaca_ppt_fontup_최종_36](https://user-images.githubusercontent.com/111685274/195492154-595bbde0-5a41-4731-b02c-7e6e436c872b.jpg)
+
+<br><br>
+## 느낀점
+ChacaChaca는 프로그래밍을 배우면서 경험해본 첫 프로젝트입니다.
+학습한 내용을 실제로 구현해본다는 설렘과 동시에 좀 더 고도화하고 싶었지만 그렇지 못한 점과 앞으로 보완해 나가야할 점도 있어 아쉬옴도 있습니다. 
+개인적으로는 
+
+하지만 이번 프로젝트를 통해 프로그래밍에 대한 흥미가 더 높아졌다는 점과 앞으로 어떻게 나아가야할지, 스스로에 대해 고민하는 자세를 가지게 되었다는 점에 의의를 두고자 합니다. <br>
+이번 프로젝트에서 아쉬웠던 점은 다음 프로젝트에서 보완하여 
+코드를 치는 개발자가 되기 위해 성장해 나가
+
+
+<br>---<br>
+
+       
