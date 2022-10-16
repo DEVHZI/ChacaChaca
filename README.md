@@ -1,10 +1,10 @@
-![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=94B49F&text=ChacaChaca🚙&height=150&fontSize=60&desc=car%20sharing%20project&descAlignY=75&descAlign=60)
+![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=94B49F&text=ChacaChaca🚙&height=150&fontSize=60&desc=car_sharing%20service%20project&descAlignY=75&descAlign=60)
 
 
 # 
 🚙 ChacaChaca_car sharing service <br>
 📅 기간 : 2022.08.26~2022.09.30 <br>
-🙋‍♀️ 인원 : 5명
+🙋‍♀️ 인원 : 5명 <br>
 📍 배포 주소 : http://itwillbs7.cafe24.com/Root/Main.bo <br>
 <br><br>
 
