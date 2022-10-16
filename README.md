@@ -2,7 +2,7 @@
 
 
 # 
-🚙 ChacaChaca_car sharing service <br>
+🚙 ChacaChaca : car_sharing service <br>
 📅 기간 : 2022.08.26~2022.09.30 <br>
 🙋‍♀️ 인원 : 5명 <br>
 📍 배포 주소 : http://itwillbs7.cafe24.com/Root/Main.bo <br>
@@ -154,5 +154,6 @@ ChacaChaca는 프로그래밍을 배우면서 경험해본 첫 프로젝트입�
 앞으로는 '코드를 치는' 개발자에 한걸음 더 가까이 가기 위해 성장해 나가고 싶습니다. 
 <br><br>
 
-                                                                                                         
+
+UPDATE 2022/10/16
 ![Footer](https://capsule-render.vercel.app/api?type=rect&color=94B49F&height=200&section=footer)
