@@ -1,9 +1,10 @@
-![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=94B49F&text=ChacaChaca🚙&height=150&fontSize=60&desc=rental%20car%20project&descAlignY=75&descAlign=60)
+![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=94B49F&text=ChacaChaca🚙&height=150&fontSize=60&desc=car%20sharing%20project&descAlignY=75&descAlign=60)
 
 
 # 
-🚙 SEMI-PROJECT <br>
+🚙 ChacaChaca_car sharing service <br>
 📅 기간 : 2022.08.26~2022.09.30 <br>
+🙋‍♀️ 인원 : 5명
 📍 배포 주소 : http://itwillbs7.cafe24.com/Root/Main.bo <br>
 <br><br>
 
@@ -149,9 +150,9 @@
 ChacaChaca는 프로그래밍을 배우면서 경험해본 첫 프로젝트입니다.
 학습한 내용을 실제로 구현해본다는 설렘과 동시에 기능을 좀 더 고도화하고 싶었지만 그렇지 못한 점과 앞으로 보완해 나가야할 점도 있어 아쉬옴도 있습니다.<br> 
 하지만 이번 프로젝트를 통해 프로그래밍에 대한 흥미가 더 높아졌다는 점과 앞으로 어떻게 나아가야할지, 스스로에 대해 고민하는 자세를 가지게 되었다는 점에 의의를 두고자 합니다. <br>
-프로젝트 기능 중 부족했던 부분은 좀 더 보완해나갈 예정이며, 이번 프로젝트에서 미구현했던 점과 보완점을 참고하여 다음 프로젝트에서는 좀 더 완성도 높은 결과물을 만들고 싶습니다. <br 
+프로젝트 기능 중 부족했던 부분은 좀 더 보완해나갈 예정이며, 이번 프로젝트에서 미구현했던 점과 보완점을 참고하여 다음 프로젝트에서는 좀 더 완성도 높은 결과물을 만들고 싶습니다. <br> 
 앞으로는 '코드를 치는' 개발자에 한걸음 더 가까이 가기 위해 성장해 나가고 싶습니다. 
-<
+<br><br>
 
                                                                                                          
 ![Footer](https://capsule-render.vercel.app/api?type=rect&color=94B49F&height=200&section=footer)
