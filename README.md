@@ -33,7 +33,7 @@
 
 <br><br>
 ## 기술 스택
-### Language
+### Backend & Frontend
 |   JSP   |    Java    |  jQuery   |    AJAX    |     Html   |    css   | JavaScript |
 | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: |
 | <img width="70" alt="jsp" src="https://user-images.githubusercontent.com/111685274/194449553-223e102c-c8ee-4ca5-b0ae-996a678fccb5.png">    |   <img width="70" alt="java" src="https://user-images.githubusercontent.com/111685274/194450332-5613ed9d-ca11-4c1d-a658-28496c64b295.png">  |  <img width="100" alt="jquery" src="https://user-images.githubusercontent.com/111685274/194263137-49fbefbe-a9c2-4e59-852a-3374c52614de.png"> |  <img width="85" alt="ajax" src="https://user-images.githubusercontent.com/111685274/194261848-66bacb9f-accd-4e2c-b519-58363572e608.png">  |  <img width="85" alt="html" src="https://user-images.githubusercontent.com/111685274/194262791-0427b917-91a2-412a-a914-65b37950ea93.png">  |   <img width="105" alt="css" src="https://user-images.githubusercontent.com/111685274/194262954-7646b6dd-0dc2-490a-a585-29ced4bb5380.png">    |    <img width="60" alt="js" src="https://user-images.githubusercontent.com/111685274/194263062-af7bf853-ff18-4a16-b6da-b0dc352dfc34.png">   |
